@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Kupofty/nmeagenerator-pi/builds/53870257 -->
+<!-- https://ci.appveyor.com/project/Kupofty/nmeagenerator-pi/builds/53881402 -->
 <plugin version="1">
   <name> NmeaGenerator </name>
-  <version> 1.0.0+15.e9bcc97 </version>
+  <version> 1.0.0+19.cbd644b </version>
   <release> 0 </release>
   <summary> NMEA sentence generator for testing and debugging </summary>
 
@@ -10,13 +10,13 @@
   <open-source> yes </open-source>
   <author> Kupofty </author>
   <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
-  <info-url> https://github.com/Kupofty/NmeaGenerator_pi </info-url>
+  <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
 
   <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
 
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-unstable/raw/names/NmeaGenerator-1.0-msvc-wx32-10-tarball/versions/1.0.0+15.e9bcc97/NmeaGenerator-1.0.0+15.e9bcc97_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 31d2addf66283e733125c59bac9a6fac0c6ca1cc4cd31df3db4a963e30bd5327 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.0-msvc-wx32-10-tarball/versions/1.0.0+19.cbd644b/NmeaGenerator-1.0.0+19.cbd644b_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 1284f44bd4cc395963c61ae7c08ebdaccdcb5fbada6d99c7aab88cf5bdbcbb7c </tarball-checksum>
 </plugin>
