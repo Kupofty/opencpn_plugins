@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Kupofty/NmeaGenerator_pi/216 -->
+<!-- https://circleci.com/gh/Kupofty/NmeaGenerator_pi/236 -->
 <plugin version="1">
   <name> NmeaGenerator </name>
-  <version> 1.0.0+216.9884f12 </version>
+  <version> 1.0.0+236.9bf2114 </version>
   <release> 0 </release>
   <summary> NMEA sentence generator for testing and debugging </summary>
 
@@ -17,6 +17,6 @@
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.0-darwin-wx32-universal-10-tarball/versions/1.0.0+216.9884f12/NmeaGenerator-1.0.0+216.9884f12_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> a7f24307c08473c1653b352a0ab640104a7296e165601369c7bba0bc583f9802 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.0-darwin-wx32-universal-10-tarball/versions/1.0.0+236.9bf2114/NmeaGenerator-1.0.0+236.9bf2114_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 5b7f94a3216a48f1f8bb6c07531deab13f35e9f9695bf8469b9ee4657fafd69b </tarball-checksum>
 </plugin>
