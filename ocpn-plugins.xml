@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <plugins>
   <version>0.0.0</version>
-  <date>2026-04-11 22:30</date>
+  <date>2026-05-03 17:01</date>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
     <version> 2.3.1.0 </version>
@@ -1250,7 +1250,7 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1263,12 +1263,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>android-arm64</target>
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-android-arm64-A64-16-tarball/versions/v0.3.4/DashboardSK-v0.3.4_android-arm64-16-arm64.tar.gz</tarball-url>
-    <tarball-checksum>16963ff629fab0d6d62bb0b1fbfbf98d59d2e104780c9df37f0e3132e9033334</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-android-arm64-A64-16-tarball/versions/v0.3.5/DashboardSK-v0.3.5_android-arm64-16-arm64.tar.gz</tarball-url>
+    <tarball-checksum>c93d7de899653afb7ac489a544a4157c678b382579ba8afe492e340ba36585ea</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1281,12 +1281,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>android-armhf</target>
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-android-armhf-A32-16-tarball/versions/v0.3.4/DashboardSK-v0.3.4_android-armhf-16-armhf.tar.gz</tarball-url>
-    <tarball-checksum>80c05d208394da4662acb074403b06f39ecea10a281b5be75b32cfbaeade2430</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-android-armhf-A32-16-tarball/versions/v0.3.5/DashboardSK-v0.3.5_android-armhf-16-armhf.tar.gz</tarball-url>
+    <tarball-checksum>4927fa3d0542cc00e30565a71ebdabfc714524559b3ff1881274058d6660953f</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1299,12 +1299,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>darwin-wx32</target>
     <target-version>10</target-version>
     <target-arch>arm64;x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-darwin-wx32-universal-10-tarball/versions/v0.3.4/DashboardSK-v0.3.4_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>d6946786c1436351ca3ad7d7327a2c56c56eb8f8267a5779269df463bf1ffeb9</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-darwin-wx32-universal-10-tarball/versions/v0.3.5/DashboardSK-v0.3.5_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>1e082929ddad8796cbb2063845a40dcead21dd07fb4bb2b5d5c235dcc59ae49e</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1317,12 +1317,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-arm64</target>
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-debian-arm64-A64-12-tarball/versions/v0.3.4/DashboardSK-v0.3.4_debian-arm64-12-arm64.tar.gz</tarball-url>
-    <tarball-checksum>64447f18dd2f3c5049255e00228374d7aa63aff9a1c28b812a6b93498f3ea24b</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-debian-arm64-A64-12-tarball/versions/v0.3.5/DashboardSK-v0.3.5_debian-arm64-12-arm64.tar.gz</tarball-url>
+    <tarball-checksum>82dcc3d14a801181de743e56bd4794601e9855b2f3d6e2eabf4f54e0c6cc15d0</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1335,12 +1335,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-arm64</target>
     <target-version>13</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-debian-arm64-A64-13-tarball/versions/v0.3.4/DashboardSK-v0.3.4_debian-arm64-13-arm64.tar.gz</tarball-url>
-    <tarball-checksum>0ebafefb45c893f7b7fbec6e75c4c706110a3390312d80a4cb1b9d7a9798fcb5</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-debian-arm64-A64-13-tarball/versions/v0.3.5/DashboardSK-v0.3.5_debian-arm64-13-arm64.tar.gz</tarball-url>
+    <tarball-checksum>de201a480b93d4dce9da4c3d8d571639b3a539744bac99155330cdb3e44cbffa</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1353,12 +1353,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-armhf</target>
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-debian-armhf-A32-12-tarball/versions/v0.3.4/DashboardSK-v0.3.4_debian-armhf-12-armhf.tar.gz</tarball-url>
-    <tarball-checksum>8c519fb0d6f74bf6a3464a91b67af83f8280dad0fd600937902db4bcdaee69bb</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-debian-armhf-A32-12-tarball/versions/v0.3.5/DashboardSK-v0.3.5_debian-armhf-12-armhf.tar.gz</tarball-url>
+    <tarball-checksum>9a58fc4fe172cc6a1d3b29281460dad7adde4ccccfc43d3fb639ecc98bc9fafe</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1371,12 +1371,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-armhf</target>
     <target-version>13</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-debian-armhf-A32-13-tarball/versions/v0.3.4/DashboardSK-v0.3.4_debian-armhf-13-armhf.tar.gz</tarball-url>
-    <tarball-checksum>cef06ebbf63a929d87704297d1772c1d9e94ffe60cd2000a642807ddb4f3602e</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-debian-armhf-A32-13-tarball/versions/v0.3.5/DashboardSK-v0.3.5_debian-armhf-13-armhf.tar.gz</tarball-url>
+    <tarball-checksum>60c727d58966dcd51ab609ee6081d434f46b4b287707c99fa07ab54945272d30</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1389,12 +1389,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-wx32-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-debian-wx32-x86_64-11-tarball/versions/v0.3.4/DashboardSK-v0.3.4_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>9342ab1c8e00aba239c39a15cf806aea4fc2bd0b7ca238b9bfced3dcc267737f</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-debian-wx32-x86_64-11-tarball/versions/v0.3.5/DashboardSK-v0.3.5_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>5e6c460538a1766f7d9cc1b6dc94bc6bb4bf905c62e5b3751bffc76c24f9db65</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1407,12 +1407,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-debian-x86_64-11-tarball/versions/v0.3.4/DashboardSK-v0.3.4_debian-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>cea5731f473a0f32f8bb665ae5ab46366019645adc00c5c65704cc2bd89db7d6</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-debian-x86_64-11-tarball/versions/v0.3.5/DashboardSK-v0.3.5_debian-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>f126811a9ce59facb40281e756b8204002d4bc7d733aa433186acb1ae7de0ad2</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1425,12 +1425,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-x86_64</target>
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-debian-x86_64-12-tarball/versions/v0.3.4/DashboardSK-v0.3.4_debian-x86_64-12-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>2d6b53ec46de8923e516220f011b23df9d1641cc8cba66f908d9bdd2f5cd1d10</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-debian-x86_64-12-tarball/versions/v0.3.5/DashboardSK-v0.3.5_debian-x86_64-12-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>ae5edc57317199f01450b749b3a5a60fec615611fbbde1d7a6e918ac4488b84f</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1443,30 +1443,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-x86_64</target>
     <target-version>13</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-debian-x86_64-13-tarball/versions/v0.3.4/DashboardSK-v0.3.4_debian-x86_64-13-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>453243f0b575706c981b60e3bcd8b62f90ec448d33da1f0778dbbdded42d61ce</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-debian-x86_64-13-tarball/versions/v0.3.5/DashboardSK-v0.3.5_debian-x86_64-13-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>cf44089d33200852816785d7c234230c8ad9bb92c0b394a99581a5af52a44a1a</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
-    <release>0</release>
-    <summary>DashboardSK plugin for OpenCPN</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/dashboardsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/dashboardSK.html</info-url>
-    <description>DashboardSK plugin for OpenCPN
-</description>
-    <target>flatpak-aarch64</target>
-    <target-version>22.08</target-version>
-    <target-arch>aarch64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-flatpak-aarch64-A64-22.08-tarball/versions/v0.3.4/DashboardSK-v0.3.4_flatpak-aarch64-22.08-aarch64.tar.gz</tarball-url>
-    <tarball-checksum>15959479a306c63e46978b34962857a91b5ca2eba3361879f16df46f84fb1887</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1479,12 +1461,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>flatpak-aarch64</target>
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-flatpak-aarch64-A64-24.08-tarball/versions/v0.3.4/DashboardSK-v0.3.4_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
-    <tarball-checksum>5113e790a370fe26bd48253ae748eb002838ff0d336bd2473e05885b1efa8319</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-flatpak-aarch64-A64-24.08-tarball/versions/v0.3.5/DashboardSK-v0.3.5_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>11496301ccf8810d1e594db3eb2fed1486cf5610023150d15b504130281be1a7</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1494,15 +1476,15 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <info-url>https://opencpn.org/OpenCPN/plugins/dashboardSK.html</info-url>
     <description>DashboardSK plugin for OpenCPN
 </description>
-    <target>flatpak-x86_64</target>
-    <target-version>22.08</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-flatpak-x86_64-22.08-tarball/versions/v0.3.4/DashboardSK-v0.3.4_flatpak-x86_64-22.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>e5f209e2a51263a36c259f96f8edf6741cdb84882e598bdf5356d9beb07b6839</tarball-checksum>
+    <target>flatpak-aarch64</target>
+    <target-version>25.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-flatpak-aarch64-A64-25.08-tarball/versions/v0.3.5/DashboardSK-v0.3.5_flatpak-aarch64-25.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>8ab3cd96a5529dd532357f1dcb587380a83079cb6009f876fbf613cf7d19ae08</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1515,12 +1497,30 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>flatpak-x86_64</target>
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-flatpak-x86_64-24.08-tarball/versions/v0.3.4/DashboardSK-v0.3.4_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>18af8d8c35bc80d60c351e98867a184b887a10f118c138fbc9ed0ce194dc7a87</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-flatpak-x86_64-24.08-tarball/versions/v0.3.5/DashboardSK-v0.3.5_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>4e42981290b2a427c02fb428bfe524e4e5b8a96a4c2f6fc8edfae11b08089a99</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>DashboardSK</name>
-    <version>v0.3.4</version>
+    <version>v0.3.5</version>
+    <release>0</release>
+    <summary>DashboardSK plugin for OpenCPN</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/dashboardsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/dashboardSK.html</info-url>
+    <description>DashboardSK plugin for OpenCPN
+</description>
+    <target>flatpak-x86_64</target>
+    <target-version>25.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-flatpak-x86_64-25.08-tarball/versions/v0.3.5/DashboardSK-v0.3.5_flatpak-x86_64-25.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>6a00b2ae5e7476b508ece3d61a69921b226f7c3104a578a44010d3bdb5bd0296</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>DashboardSK</name>
+    <version>v0.3.5</version>
     <release>0</release>
     <summary>DashboardSK plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -1533,8 +1533,8 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>msvc-wx32</target>
     <target-version>10.0.26100</target-version>
     <target-arch>x86</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.4-msvc-wx32-10.0.26100-tarball/versions/v0.3.4/DashboardSK-v0.3.4_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
-    <tarball-checksum>bb901df002295c523075e410ad4b5877c5f3ce71d2b1e699b4ffedbebecdba2b</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/dashboardsk_pi-stable/raw/names/DashboardSK-v0.3.5-msvc-wx32-10.0.26100-tarball/versions/v0.3.5/DashboardSK-v0.3.5_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
+    <tarball-checksum>c73784529d74da3fd90447a726248266d6badab32f1f9677e0bc5f52cc530131</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> EarthExplorer </name>
@@ -1772,8 +1772,8 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1785,13 +1785,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>darwin-wx32</target>
     <target-version>10</target-version>
     <target-arch>arm64;x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-darwin-wx32-universal-10-tarball/versions/v0.33.0/IACFleet-v0.33.0_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>6fd72da5f7a45e62dad2e7e15fd63ddf36dbf6724cf1978684a2ab3a25c8ecb3</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-darwin-wx32-universal-10-tarball/versions/v0.33.1/IACFleet-v0.33.1_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>30b3eff46b2ea88b296a7d59c4e34bddee342a72fd75054d858f715735ac2234</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1803,13 +1803,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-arm64</target>
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-debian-arm64-A64-12-tarball/versions/v0.33.0/IACFleet-v0.33.0_debian-arm64-12-arm64.tar.gz</tarball-url>
-    <tarball-checksum>deb3e983fbf3679a20fb449ad4adebd83284e4539e8f556128747b08d02b8196</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-debian-arm64-A64-12-tarball/versions/v0.33.1/IACFleet-v0.33.1_debian-arm64-12-arm64.tar.gz</tarball-url>
+    <tarball-checksum>1cb28fc5b33d1c5e46020962bd258b3b5fa9a0e8a05f79afd130fc5843b9f41f</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1821,13 +1821,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-arm64</target>
     <target-version>13</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-debian-arm64-A64-13-tarball/versions/v0.33.0/IACFleet-v0.33.0_debian-arm64-13-arm64.tar.gz</tarball-url>
-    <tarball-checksum>79fd9fd2418703e6a15cd1acccb3565a7f435a31d4dfa78d39a4d7af0fa28be5</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-debian-arm64-A64-13-tarball/versions/v0.33.1/IACFleet-v0.33.1_debian-arm64-13-arm64.tar.gz</tarball-url>
+    <tarball-checksum>5787c040bc2ddf1c1764ecf62b7bde05a36f60cd2704a91d49e1febd46e13f9f</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1839,13 +1839,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-armhf</target>
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-debian-armhf-A32-12-tarball/versions/v0.33.0/IACFleet-v0.33.0_debian-armhf-12-armhf.tar.gz</tarball-url>
-    <tarball-checksum>3c26728910598d7a42f994dfd1f66218f44fe6bf2ea738d4a047bad56157ac3b</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-debian-armhf-A32-12-tarball/versions/v0.33.1/IACFleet-v0.33.1_debian-armhf-12-armhf.tar.gz</tarball-url>
+    <tarball-checksum>d0da21caf1b0d73c56600f8884d8d077d8c49bd86a6c0a0460111b624f063d76</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1857,13 +1857,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-armhf</target>
     <target-version>13</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-debian-armhf-A32-13-tarball/versions/v0.33.0/IACFleet-v0.33.0_debian-armhf-13-armhf.tar.gz</tarball-url>
-    <tarball-checksum>d8055c4d52d6474b3d70ecfff90692631351be3299891a3e36d8358bb5dcecf1</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-debian-armhf-A32-13-tarball/versions/v0.33.1/IACFleet-v0.33.1_debian-armhf-13-armhf.tar.gz</tarball-url>
+    <tarball-checksum>ca0003dc65960c32c633650b2f584577b1aa42f41c38f325e2a8c2c90071ee4a</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1875,13 +1875,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-wx32-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-debian-wx32-x86_64-11-tarball/versions/v0.33.0/IACFleet-v0.33.0_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>02f41854e395f5b02354311d03b85f0f407fba900f0bdbed13abc90e0d52e9cd</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-debian-wx32-x86_64-11-tarball/versions/v0.33.1/IACFleet-v0.33.1_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>3d5d2db879a17d7df0b8d4b20359975b8d46125fcd810566119b5d1dade225a2</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1893,13 +1893,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-debian-x86_64-11-tarball/versions/v0.33.0/IACFleet-v0.33.0_debian-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>ef4e8dc6b121e2fa472b88b75c1866fd0fe04ff558e117cb37cf07fec67b6bc4</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-debian-x86_64-11-tarball/versions/v0.33.1/IACFleet-v0.33.1_debian-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>eca8dd50024c3b8ac0f3f96dbe5e78efed0a0afdca7b0263a77a23ce66c0a4ea</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1911,13 +1911,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-x86_64</target>
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-debian-x86_64-12-tarball/versions/v0.33.0/IACFleet-v0.33.0_debian-x86_64-12-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>98af7a73dd9ba3d0c4f0752cd461d9bde0c16e7c3c6281bf7eb6f740a6b84b9a</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-debian-x86_64-12-tarball/versions/v0.33.1/IACFleet-v0.33.1_debian-x86_64-12-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>2ba173a27765b2a506a2180268c0324ac2053454240ce2e5ef948e2e52f91141</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1929,31 +1929,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-x86_64</target>
     <target-version>13</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-debian-x86_64-13-tarball/versions/v0.33.0/IACFleet-v0.33.0_debian-x86_64-13-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>4537b13cae144850c980fde5b82c5943c6d7cca9ba963548fa1245ee222b8bd2</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-debian-x86_64-13-tarball/versions/v0.33.1/IACFleet-v0.33.1_debian-x86_64-13-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>d800dbf529c228cb5de07ad26311176339a91dff1ae0005882ce9955327ff507</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
-    <summary>IAC Fleetcode plugin for OpenCPN</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/iacfleet_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/iacfleet.html</info-url>
-    <description>IAC Fleetcode plugin for OpenCPN
-</description>
-    <target>flatpak-aarch64</target>
-    <target-version>22.08</target-version>
-    <target-arch>aarch64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-flatpak-aarch64-A64-22.08-tarball/versions/v0.33.0/IACFleet-v0.33.0_flatpak-aarch64-22.08-aarch64.tar.gz</tarball-url>
-    <tarball-checksum>f7c9ecdf55bacfc0e25aa9fb95978d5c4196cf55804802b6ca3ea55b161304eb</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1965,13 +1947,13 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>flatpak-aarch64</target>
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-flatpak-aarch64-A64-24.08-tarball/versions/v0.33.0/IACFleet-v0.33.0_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
-    <tarball-checksum>dba8e0a824e20478bc52727261549da620ceeb7cece32c5b635a0fb255f3d9b1</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-flatpak-aarch64-A64-24.08-tarball/versions/v0.33.1/IACFleet-v0.33.1_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>462579e8be19de896d944871d489c238f47278ee6da5a73283414ba6ba77a695</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -1980,16 +1962,16 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <info-url>https://opencpn.org/OpenCPN/plugins/iacfleet.html</info-url>
     <description>IAC Fleetcode plugin for OpenCPN
 </description>
-    <target>flatpak-x86_64</target>
-    <target-version>22.08</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-flatpak-x86_64-22.08-tarball/versions/v0.33.0/IACFleet-v0.33.0_flatpak-x86_64-22.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>817803dc55d5d74a45f1adb95705705692c941782b41c227a652e581a244dc4a</tarball-checksum>
+    <target>flatpak-aarch64</target>
+    <target-version>25.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-flatpak-aarch64-A64-25.08-tarball/versions/v0.33.1/IACFleet-v0.33.1_flatpak-aarch64-25.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>fc611b39adeb718853cc5f109071e1cfc3c6d0c47995587af9d78dcf11c715f9</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -2001,13 +1983,31 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>flatpak-x86_64</target>
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-flatpak-x86_64-24.08-tarball/versions/v0.33.0/IACFleet-v0.33.0_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>93e2fa5fb60b4bc0f1d94152f1e886a82fd783d4d2df8c70f3b7d22b8e0e7d50</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-flatpak-x86_64-24.08-tarball/versions/v0.33.1/IACFleet-v0.33.1_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>577ecbcccb3ee2ec500b573a89d0fe01196b4e7fd27a9502297ecb70e7a48169</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>IACFleet</name>
-    <version>v0.33.0</version>
-    <release/>
+    <version>v0.33.1</version>
+    <release>0</release>
+    <summary>IAC Fleetcode plugin for OpenCPN</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/iacfleet_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/iacfleet.html</info-url>
+    <description>IAC Fleetcode plugin for OpenCPN
+</description>
+    <target>flatpak-x86_64</target>
+    <target-version>25.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-flatpak-x86_64-25.08-tarball/versions/v0.33.1/IACFleet-v0.33.1_flatpak-x86_64-25.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>497f6e3671729f983e8c87499316b80d5f7bd5315d466a784163b45a4bdcf8f2</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>IACFleet</name>
+    <version>v0.33.1</version>
+    <release>0</release>
     <summary>IAC Fleetcode plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
     <open-source>yes</open-source>
@@ -2019,12 +2019,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>msvc-wx32</target>
     <target-version>10.0.26100</target-version>
     <target-arch>x86</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.0-msvc-wx32-10.0.26100-tarball/versions/v0.33.0/IACFleet-v0.33.0_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
-    <tarball-checksum>f4ea5b9257130b2c3c06751369c83311059daf42d89cabcd284431d47a1d54d8</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/iacfleet_pi-stable/raw/names/IACFleet-v0.33.1-msvc-wx32-10.0.26100-tarball/versions/v0.33.1/IACFleet-v0.33.1_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
+    <tarball-checksum>71b74d51f3c1262615582fff4dcd7e0746b59bb110ca2820593178726614209b</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2037,12 +2037,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>darwin-wx32</target>
     <target-version>10</target-version>
     <target-arch>arm64;x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-darwin-wx32-universal-10-tarball/versions/v1.3.7/Launcher-v1.3.7_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>3a3a650ef18aa88b071bdda21bd42dd87cab736337db8d334b974f8cd076fbed</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-darwin-wx32-universal-10-tarball/versions/v1.3.8/Launcher-v1.3.8_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>014157dcbfe25097833b34c7227dba6be8f56036f80e043bab6a3ea285807449</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2055,12 +2055,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-arm64</target>
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-debian-arm64-A64-12-tarball/versions/v1.3.7/Launcher-v1.3.7_debian-arm64-12-arm64.tar.gz</tarball-url>
-    <tarball-checksum>a2fa1ef9b6bb86960c8b92ea1d68fad094b1885ceb56dfad8ff683f76b26ca54</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-debian-arm64-A64-12-tarball/versions/v1.3.8/Launcher-v1.3.8_debian-arm64-12-arm64.tar.gz</tarball-url>
+    <tarball-checksum>2b2db7d704423eea706bd9acc7e29a9f36d35c6101313c9b69d50bd7b32033b8</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2073,12 +2073,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-arm64</target>
     <target-version>13</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-debian-arm64-A64-13-tarball/versions/v1.3.7/Launcher-v1.3.7_debian-arm64-13-arm64.tar.gz</tarball-url>
-    <tarball-checksum>bf691f2bd701bd9f7cc6ba8651cee20151f0e8787f0105ac089c25fa50e37bcf</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-debian-arm64-A64-13-tarball/versions/v1.3.8/Launcher-v1.3.8_debian-arm64-13-arm64.tar.gz</tarball-url>
+    <tarball-checksum>fcb6810576d3c04f5d5cae1a4daee2e6256d5d8e5a938bbe1c976c60ae059076</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2091,12 +2091,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-armhf</target>
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-debian-armhf-A32-12-tarball/versions/v1.3.7/Launcher-v1.3.7_debian-armhf-12-armhf.tar.gz</tarball-url>
-    <tarball-checksum>85e5d810dd5c09ad08854723906be40d74d8f1e2b7449f594f85851c9dc65099</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-debian-armhf-A32-12-tarball/versions/v1.3.8/Launcher-v1.3.8_debian-armhf-12-armhf.tar.gz</tarball-url>
+    <tarball-checksum>0181b00e82d36763d37310eeacb53efa6d54eb9376874d57779440bd8bc4d10a</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2109,12 +2109,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-armhf</target>
     <target-version>13</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-debian-armhf-A32-13-tarball/versions/v1.3.7/Launcher-v1.3.7_debian-armhf-13-armhf.tar.gz</tarball-url>
-    <tarball-checksum>34b014b27d1e2fc3cfa4f7226a1b5ed87e8c577fa8182ac072991e67342c5464</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-debian-armhf-A32-13-tarball/versions/v1.3.8/Launcher-v1.3.8_debian-armhf-13-armhf.tar.gz</tarball-url>
+    <tarball-checksum>32327bc5012d5a437cba6efcaa3e9a71557fd73e1588882f973b9d6d9cdc0a86</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2127,12 +2127,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-wx32-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-debian-wx32-x86_64-11-tarball/versions/v1.3.7/Launcher-v1.3.7_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>38464c77cb3279992d4e73ffdd35bbe10137afc0a725080289386445509f5ea2</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-debian-wx32-x86_64-11-tarball/versions/v1.3.8/Launcher-v1.3.8_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>eab5273d395bf53f52185ecba861dbb7768196b7769d63eeda7860fb109dc1fa</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2145,12 +2145,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-debian-x86_64-11-tarball/versions/v1.3.7/Launcher-v1.3.7_debian-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>7f1d5f066210927e0c5df71a21d450c509a6c28176c414e5a4663e6bdf5ff76f</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-debian-x86_64-11-tarball/versions/v1.3.8/Launcher-v1.3.8_debian-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>bdb681514d70e2f258a21e90131adc756943a0d7ef6ce1595af8239dc9fcfaaa</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2163,12 +2163,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-x86_64</target>
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-debian-x86_64-12-tarball/versions/v1.3.7/Launcher-v1.3.7_debian-x86_64-12-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>78a14d35007f75a4dc2eb0a599c00e37a93717ff95ca11283866a8817373fdfa</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-debian-x86_64-12-tarball/versions/v1.3.8/Launcher-v1.3.8_debian-x86_64-12-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>26f9ee5c5415f66de3479dedd70d0c319a3499d638d0e297e5e79825af60d167</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2181,12 +2181,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>debian-x86_64</target>
     <target-version>13</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-debian-x86_64-13-tarball/versions/v1.3.7/Launcher-v1.3.7_debian-x86_64-13-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>5f6b5fde99804dceffee16e26b60ba587394a125129fa0bad877e33caa561b45</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-debian-x86_64-13-tarball/versions/v1.3.8/Launcher-v1.3.8_debian-x86_64-13-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>1a76186e36fad10d2dc7a1c9c7de525fac5ef7c2029b74a5cd9fa3a9e7327255</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2199,12 +2199,12 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>flatpak-aarch64</target>
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-flatpak-aarch64-A64-24.08-tarball/versions/v1.3.7/Launcher-v1.3.7_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
-    <tarball-checksum>526b9887129dc2dd49e0243e6bdb1c31ba244b15955928fd7508e2b2df9d687e</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-flatpak-aarch64-A64-24.08-tarball/versions/v1.3.8/Launcher-v1.3.8_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>8d41b119912aa04b5ccead15aa3016ef3bc98aa33b1f110d12efa065f01ac3af</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2214,15 +2214,15 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <info-url>https://opencpn.org/OpenCPN/plugins/launcher.html</info-url>
     <description>  Launcher plugin for OpenCPN
 </description>
-    <target>flatpak-x86_64</target>
-    <target-version>22.08</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-flatpak-x86_64-22.08-tarball/versions/v1.3.7/Launcher-v1.3.7_flatpak-x86_64-22.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>182789d2f3738865ef3ad14012a4a98bdc5d571ab599b2df0150a9961370ccfb</tarball-checksum>
+    <target>flatpak-aarch64</target>
+    <target-version>25.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-flatpak-aarch64-A64-25.08-tarball/versions/v1.3.8/Launcher-v1.3.8_flatpak-aarch64-25.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>1a6e29a11ac8c80804975e563d99dc06e4c2d1db8152b922fee43476f60398ba</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2235,12 +2235,30 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>flatpak-x86_64</target>
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-flatpak-x86_64-24.08-tarball/versions/v1.3.7/Launcher-v1.3.7_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>d7260cd83af572db028c029b1c05e22e0bc68929615562ab55e626c0ac029ac7</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-flatpak-x86_64-24.08-tarball/versions/v1.3.8/Launcher-v1.3.8_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>8c46142a3f559bf73cb0fb396ecb2442026e4919c735fb1c74b90480fcdef472</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>Launcher</name>
-    <version>v1.3.7</version>
+    <version>v1.3.8</version>
+    <release>0</release>
+    <summary>Launcher plugin for OpenCPN</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/launcher_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/launcher.html</info-url>
+    <description>  Launcher plugin for OpenCPN
+</description>
+    <target>flatpak-x86_64</target>
+    <target-version>25.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-flatpak-x86_64-25.08-tarball/versions/v1.3.8/Launcher-v1.3.8_flatpak-x86_64-25.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>a3e96335cd5d3c5ef50a55862cb14a30b54029a17d8867e82bb28ff117fd1b2c</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>Launcher</name>
+    <version>v1.3.8</version>
     <release>0</release>
     <summary>Launcher plugin for OpenCPN</summary>
     <api-version>1.18</api-version>
@@ -2253,8 +2271,8 @@ https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTr
     <target>msvc-wx32</target>
     <target-version>10.0.26100</target-version>
     <target-arch>x86</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.7-msvc-wx32-10.0.26100-tarball/versions/v1.3.7/Launcher-v1.3.7_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
-    <tarball-checksum>7cd41d84bd7a911524c1c2135e9674de83fe764ef9dddca40220bab6595b2ee3</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/launcher_pi-stable/raw/names/Launcher-v1.3.8-msvc-wx32-10.0.26100-tarball/versions/v1.3.8/Launcher-v1.3.8_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
+    <tarball-checksum>4cfd1a9f40b7f53645af93b66f9742d11597a92ccd50c77048e1c503c7e5b771</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Logbook </name>
@@ -3354,7 +3372,7 @@ search LogbookKonni
   </plugin>
   <plugin version="1">
     <name>NSK</name>
-    <version>v0.2.4</version>
+    <version>v0.2.5</version>
     <release>0</release>
     <summary>NMEA0183 to SignalK converter</summary>
     <api-version>1.18</api-version>
@@ -3367,12 +3385,12 @@ search LogbookKonni
     <target>android-arm64</target>
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-android-arm64-A64-16-tarball/versions/v0.2.4/NSK-v0.2.4_android-arm64-16-arm64.tar.gz</tarball-url>
-    <tarball-checksum>7a652717a1034a658d23815c1db6e9ee500861db008b66efdb7cccbbeb2a13e9</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-android-arm64-A64-16-tarball/versions/v0.2.5/NSK-v0.2.5_android-arm64-16-arm64.tar.gz</tarball-url>
+    <tarball-checksum>747c4e418f285e9114408d326488cbb4e780fc596c9380b62a351f8cbde9d266</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>NSK</name>
-    <version>v0.2.4</version>
+    <version>v0.2.5</version>
     <release>0</release>
     <summary>NMEA0183 to SignalK converter</summary>
     <api-version>1.18</api-version>
@@ -3385,246 +3403,12 @@ search LogbookKonni
     <target>android-armhf</target>
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-android-armhf-A32-16-tarball/versions/v0.2.4/NSK-v0.2.4_android-armhf-16-armhf.tar.gz</tarball-url>
-    <tarball-checksum>fafd7b32cf3b3770706e34e479f714b3a3492fd54c8d2ea3128685fe5e31303a</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-android-armhf-A32-16-tarball/versions/v0.2.5/NSK-v0.2.5_android-armhf-16-armhf.tar.gz</tarball-url>
+    <tarball-checksum>94667679e6b35c09fafab5a00edd3b6d17263b3501d053de65a0f4972e0289b2</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>debian-arm64</target>
-    <target-version>12</target-version>
-    <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-debian-arm64-A64-12-tarball/versions/v0.2.4/NSK-v0.2.4_debian-arm64-12-arm64.tar.gz</tarball-url>
-    <tarball-checksum>da9298e42884e550775f6b6189e0ffa80d729778109149c0c90d93292ed3ecf4</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>debian-arm64</target>
-    <target-version>13</target-version>
-    <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-debian-arm64-A64-13-tarball/versions/v0.2.4/NSK-v0.2.4_debian-arm64-13-arm64.tar.gz</tarball-url>
-    <tarball-checksum>94e652da7b9ba38973ee6137db6c800e2de5544b64fe8103884b5ebf99f1b43a</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>debian-armhf</target>
-    <target-version>12</target-version>
-    <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-debian-armhf-A32-12-tarball/versions/v0.2.4/NSK-v0.2.4_debian-armhf-12-armhf.tar.gz</tarball-url>
-    <tarball-checksum>d76d350d72002ba62fdc97fc11a56512ab7a958ee7e323aa430fb61a6b88ebcc</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>debian-armhf</target>
-    <target-version>13</target-version>
-    <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-debian-armhf-A32-13-tarball/versions/v0.2.4/NSK-v0.2.4_debian-armhf-13-armhf.tar.gz</tarball-url>
-    <tarball-checksum>e8963f951a66eb9746f5c8b0899dd71699810bd2c313ef5334344c8343b4d4c2</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>debian-wx32-x86_64</target>
-    <target-version>11</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-debian-wx32-x86_64-11-tarball/versions/v0.2.4/NSK-v0.2.4_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>64f3f45e6b9131b484502c75b3ba6fa4abd6fc28666a113ca88b3181c5f06545</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>debian-x86_64</target>
-    <target-version>11</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-debian-x86_64-11-tarball/versions/v0.2.4/NSK-v0.2.4_debian-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>3236238fe2e51a6f8a3cdd1d21bf41ed9d4069c2c9614765695842e228b30cd3</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>debian-x86_64</target>
-    <target-version>12</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-debian-x86_64-12-tarball/versions/v0.2.4/NSK-v0.2.4_debian-x86_64-12-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>31fefd7f99f7a670abf1fd1a869c8f164b3ff9a85d9e5352ef048259552e3831</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>debian-x86_64</target>
-    <target-version>13</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-debian-x86_64-13-tarball/versions/v0.2.4/NSK-v0.2.4_debian-x86_64-13-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>89fed74f9660dbfd90d0e1f0e6d0577b95feaccde74950e01dfd5d68522b507f</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>flatpak-aarch64</target>
-    <target-version>22.08</target-version>
-    <target-arch>aarch64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-flatpak-aarch64-A64-22.08-tarball/versions/v0.2.4/NSK-v0.2.4_flatpak-aarch64-22.08-aarch64.tar.gz</tarball-url>
-    <tarball-checksum>7ca72428c1d7efcb90a29412e036f4412106823b64cb18fb9aaff2851b0f6e12</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>flatpak-aarch64</target>
-    <target-version>24.08</target-version>
-    <target-arch>aarch64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-flatpak-aarch64-A64-24.08-tarball/versions/v0.2.4/NSK-v0.2.4_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
-    <tarball-checksum>a7bec93b0fc1abd8e3d102cfe6084aa7a99e162af057fb061c5fc18e2f7e353e</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>flatpak-x86_64</target>
-    <target-version>22.08</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-flatpak-x86_64-22.08-tarball/versions/v0.2.4/NSK-v0.2.4_flatpak-x86_64-22.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>933d77c4b081c53ef039be86e62a9545aed8d4300c3a93f92c98803d599ef651</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>flatpak-x86_64</target>
-    <target-version>24.08</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-flatpak-x86_64-24.08-tarball/versions/v0.2.4/NSK-v0.2.4_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>15e36c4c2d2fb1428e25be95aab0878d779a67c9a5285622a07492884ba70772</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4</version>
-    <release>0</release>
-    <summary>NMEA0183 to SignalK converter</summary>
-    <api-version>1.18</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/nsk_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
-    <description>  NMEA0183 to SignalK converter
-</description>
-    <target>msvc-wx32</target>
-    <target-version>10.0.26100</target-version>
-    <target-arch>x86</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4-msvc-wx32-10.0.26100-tarball/versions/v0.2.4/NSK-v0.2.4_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
-    <tarball-checksum>7cf856e0c77fe2d69f47bb870d4a34a8a5e790566317e63bf5986e86e8e98361</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>NSK</name>
-    <version>v0.2.4.1</version>
+    <version>v0.2.5</version>
     <release>0</release>
     <summary>NMEA0183 to SignalK converter</summary>
     <api-version>1.18</api-version>
@@ -3637,8 +3421,242 @@ search LogbookKonni
     <target>darwin-wx32</target>
     <target-version>10</target-version>
     <target-arch>arm64;x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.4.1-darwin-wx32-universal-10-tarball/versions/v0.2.4.1/NSK-v0.2.4.1_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>6b4a1546265e39a2dc12f4291f3a1ea397275ff6e7edca975e0e0c07ecb9eb08</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-darwin-wx32-universal-10-tarball/versions/v0.2.5/NSK-v0.2.5_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>51d1dbcef564e226bed48adc3dd5c5242552c97a5e8fbf6c1e969d206387d9f2</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>debian-arm64</target>
+    <target-version>12</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-debian-arm64-A64-12-tarball/versions/v0.2.5/NSK-v0.2.5_debian-arm64-12-arm64.tar.gz</tarball-url>
+    <tarball-checksum>a10499dcd52db656eb66a8a1ca4ae430e0cc6be292a2d4173435191077ab6062</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>debian-arm64</target>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-debian-arm64-A64-13-tarball/versions/v0.2.5/NSK-v0.2.5_debian-arm64-13-arm64.tar.gz</tarball-url>
+    <tarball-checksum>64ca22c459544972f87bf510bd5d94a831adbec6cd4b3201508dcc8814114c55</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>debian-armhf</target>
+    <target-version>12</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-debian-armhf-A32-12-tarball/versions/v0.2.5/NSK-v0.2.5_debian-armhf-12-armhf.tar.gz</tarball-url>
+    <tarball-checksum>22910eb9e57a7c0df2dbae6bf320d6ac9ec026da1e44b955e0304b1cfc88111d</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>debian-armhf</target>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-debian-armhf-A32-13-tarball/versions/v0.2.5/NSK-v0.2.5_debian-armhf-13-armhf.tar.gz</tarball-url>
+    <tarball-checksum>454d1a1f4a9da3bc0c7194fd1d4275710ade7fd3d1e374b240ee3eaadf41f42f</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>debian-wx32-x86_64</target>
+    <target-version>11</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-debian-wx32-x86_64-11-tarball/versions/v0.2.5/NSK-v0.2.5_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>7d64cb62b74eefcac462b5bb1d784b10118875ff60170f954f7b4e17526e270d</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>debian-x86_64</target>
+    <target-version>11</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-debian-x86_64-11-tarball/versions/v0.2.5/NSK-v0.2.5_debian-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>f1e10cf28bc4b860fc380be97242f8fe1a5e1ab4f40bcdb2512ffdd4713119fc</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>debian-x86_64</target>
+    <target-version>12</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-debian-x86_64-12-tarball/versions/v0.2.5/NSK-v0.2.5_debian-x86_64-12-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>48be2e8504dd19a5cf6f6c912c696531cc4ff5be987c03d19e3d9f6da8c77ee5</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>debian-x86_64</target>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-debian-x86_64-13-tarball/versions/v0.2.5/NSK-v0.2.5_debian-x86_64-13-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>507e4d766be0587cd21d94b5f929444b6e2504448378f69505626854ce87d05e</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>flatpak-aarch64</target>
+    <target-version>24.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-flatpak-aarch64-A64-24.08-tarball/versions/v0.2.5/NSK-v0.2.5_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>878ecd531a72a5eab3f97156d583c5145638e67860de4828e73cf29f3633dfda</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>flatpak-aarch64</target>
+    <target-version>25.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-flatpak-aarch64-A64-25.08-tarball/versions/v0.2.5/NSK-v0.2.5_flatpak-aarch64-25.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>ef688acda58180ae2380266fce59c893169d37bdc8ccd5797627956a85f31ccd</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>flatpak-x86_64</target>
+    <target-version>24.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-flatpak-x86_64-24.08-tarball/versions/v0.2.5/NSK-v0.2.5_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>ff1b64f44706b589fea8aae1d35626d12631c3f87b6af753c54a63a3742f6d25</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>flatpak-x86_64</target>
+    <target-version>25.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-flatpak-x86_64-25.08-tarball/versions/v0.2.5/NSK-v0.2.5_flatpak-x86_64-25.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>565a006bdcef1a0780a8d7004b05712c6d82b960cf988a9963ff3390896101c6</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>NSK</name>
+    <version>v0.2.5</version>
+    <release>0</release>
+    <summary>NMEA0183 to SignalK converter</summary>
+    <api-version>1.18</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/nsk_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/nsk.html</info-url>
+    <description>  NMEA0183 to SignalK converter
+</description>
+    <target>msvc-wx32</target>
+    <target-version>10.0.26100</target-version>
+    <target-arch>x86</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/nsk_pi-stable/raw/names/NSK-v0.2.5-msvc-wx32-10.0.26100-tarball/versions/v0.2.5/NSK-v0.2.5_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
+    <tarball-checksum>6147cacafcd852b435b863a552c2ac14b301a1b6d05cafd63a4946e37fe7f199</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> NVCharts </name>
@@ -3677,8 +3695,195 @@ search LogbookKonni
     <tarball-checksum> 5aa942ee414b19ed0d7238f2cbae878591a92371a83c4c33747f4161e74a9b6d </tarball-checksum>
   </plugin>
   <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> 1.0.0+152.e9bcc97 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>darwin-wx32</target>
+    <target-version>10</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-1.0-darwin-wx32-10-tarball/versions/1.0.0+152.e9bcc97/NmeaGenerator-1.0.0+152.e9bcc97_darwin-wx32-10-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 87096bfbb784e6d765e55cab67afdcd85d89f78e644b06daadbf72155491231b </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>darwin-wx32</target>
+    <target-version>10</target-version>
+    <target-arch>arm64;x86_64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-darwin-wx32-universal-10-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 57aaf370f4e9262694ba38fe05a9a853d14cef20d59062649f21eb74c1c8efe6 </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>debian-arm64</target>
+    <target-version>12</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-debian-arm64-A64-12-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_debian-arm64-12-arm64.tar.gz </tarball-url>
+    <tarball-checksum> 948419b9576297dc8fc949e5b0097e9c7afeaea0e0186112ad8936d7e609b327 </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>debian-arm64</target>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-debian-arm64-A64-13-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_debian-arm64-13-arm64.tar.gz </tarball-url>
+    <tarball-checksum> abadd0c6fb7e25a28166c71806045816d3bbe3700707370458cb7dbfb29005d3 </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>debian-x86_64</target>
+    <target-version>12</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-debian-x86_64-12-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 3b16a9820657ca7815aaf344ea9da74ef3142d2cd2e67cc080b4d1e6c080941b </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>debian-x86_64</target>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-debian-x86_64-13-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_debian-x86_64-13-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> b5d1be3ca469b15182f674586b2cf1662eff44f6fa813f4685403d52f5c6bdfd </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>flatpak-aarch64</target>
+    <target-version>22.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-flatpak-aarch64-A64-22.08-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
+    <tarball-checksum> d04b4fe80ae7b2828ea06ef0b7a4fee82af414e9fde7085a318f09ca47770a01 </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>flatpak-aarch64</target>
+    <target-version>24.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-flatpak-aarch64-A64-24.08-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
+    <tarball-checksum> 9874dd4e601ecc5fde97e0cd2f7591c4d2e8037ad1cee4eeaa65823db60672fc </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>flatpak-x86_64</target>
+    <target-version>22.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-flatpak-x86_64-22.08-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 43d8f062f20fa1bf1a7494340417bffd9c5480c675b5033db43742a772f6ec3b </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>flatpak-x86_64</target>
+    <target-version>24.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-flatpak-x86_64-24.08-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 3af9b87cc155bcc54544f66ae25087d6229f6c69c1186ba28cfa8cbbc9b74acf </tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name> NmeaGenerator </name>
+    <version> v1.0.0 </version>
+    <release> 0 </release>
+    <summary> NMEA sentence generator for testing and debugging </summary>
+    <api-version> 1.20 </api-version>
+    <open-source> yes </open-source>
+    <author> Kupofty </author>
+    <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
+    <info-url> https://opencpn.org/OpenCPN/plugins/nmeagenerator.html </info-url>
+    <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
+    <target>msvc-wx32</target>
+    <target-version>10</target-version>
+    <target-arch>x86</target-arch>
+    <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-prod/raw/names/NmeaGenerator-v1.0.0-msvc-wx32-10-tarball/versions/v1.0.0/NmeaGenerator-v1.0.0_msvc-wx32-10-x86.tar.gz </tarball-url>
+    <tarball-checksum> 1f2bff3abc64e6c6808efe8d5acf092340d87f5d2f1fdc5f9252d0aba1311f5b </tarball-checksum>
+  </plugin>
+  <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3691,12 +3896,12 @@ search LogbookKonni
     <target>android-arm64</target>
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-android-arm64-A64-16-tarball/versions/v0.28.0/ObjSearch-v0.28.0_android-arm64-16-arm64.tar.gz</tarball-url>
-    <tarball-checksum>17ff0a46816d3a9231d8c627c2a1b2422dacb8a78c96a86995a817bccad8a8ab</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-android-arm64-A64-16-tarball/versions/v0.28.1/ObjSearch-v0.28.1_android-arm64-16-arm64.tar.gz</tarball-url>
+    <tarball-checksum>4e6205a3733218e132bb5a7bba620c8e3a5b71415469856648efbd5bb2be4e4b</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3709,12 +3914,12 @@ search LogbookKonni
     <target>android-armhf</target>
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-android-armhf-A32-16-tarball/versions/v0.28.0/ObjSearch-v0.28.0_android-armhf-16-armhf.tar.gz</tarball-url>
-    <tarball-checksum>308559a955e864a9701612067c12048f74f9de981ef1dead2e1f604d3ea8c4ef</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-android-armhf-A32-16-tarball/versions/v0.28.1/ObjSearch-v0.28.1_android-armhf-16-armhf.tar.gz</tarball-url>
+    <tarball-checksum>0d303806abfcab14c94d2257bbc46166fd9f0088872ae91f699f70825c061c51</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3727,12 +3932,12 @@ search LogbookKonni
     <target>darwin-wx32</target>
     <target-version>10</target-version>
     <target-arch>arm64;x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-darwin-wx32-universal-10-tarball/versions/v0.28.0/ObjSearch-v0.28.0_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>b2592c2974ccd0ca977a678699f11130563769822a8b2b17f13aaa6eb750eaee</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-darwin-wx32-universal-10-tarball/versions/v0.28.1/ObjSearch-v0.28.1_darwin-wx32-10-arm64-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>e1513dacd504f2bb46d91cad04e3fd8bc48fd8e6e044b73128a7bb857d41751a</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3745,12 +3950,12 @@ search LogbookKonni
     <target>debian-arm64</target>
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-debian-arm64-A64-12-tarball/versions/v0.28.0/ObjSearch-v0.28.0_debian-arm64-12-arm64.tar.gz</tarball-url>
-    <tarball-checksum>b6f9f6bc37b317a5087259afb23924a4b9dbee70d2af8c05f0f1c8f675e4badf</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-debian-arm64-A64-12-tarball/versions/v0.28.1/ObjSearch-v0.28.1_debian-arm64-12-arm64.tar.gz</tarball-url>
+    <tarball-checksum>a406dba77cbf19106c96cd06bfcf83f7a6764d3005331b627093f2dce52c5cbc</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3763,12 +3968,12 @@ search LogbookKonni
     <target>debian-arm64</target>
     <target-version>13</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-debian-arm64-A64-13-tarball/versions/v0.28.0/ObjSearch-v0.28.0_debian-arm64-13-arm64.tar.gz</tarball-url>
-    <tarball-checksum>724453dc9c3d19f14447a0f7d552c2cdb372ae17547a3c8be61a6f2b86550167</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-debian-arm64-A64-13-tarball/versions/v0.28.1/ObjSearch-v0.28.1_debian-arm64-13-arm64.tar.gz</tarball-url>
+    <tarball-checksum>e49b3aaeea76eed9e5032fd91cec9bf1bd4f9a938768f0f89da351c332fc7434</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3781,12 +3986,12 @@ search LogbookKonni
     <target>debian-armhf</target>
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-debian-armhf-A32-12-tarball/versions/v0.28.0/ObjSearch-v0.28.0_debian-armhf-12-armhf.tar.gz</tarball-url>
-    <tarball-checksum>866246dd66c7a085c68ce6922bdf5f9bda1dd9501b20ff11aeb02bb2b09d0eb8</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-debian-armhf-A32-12-tarball/versions/v0.28.1/ObjSearch-v0.28.1_debian-armhf-12-armhf.tar.gz</tarball-url>
+    <tarball-checksum>f6cc479067e7694a944ca91580c3747cdaf5faf81df5d58e0bbdc52d87d5528e</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3799,12 +4004,12 @@ search LogbookKonni
     <target>debian-armhf</target>
     <target-version>13</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-debian-armhf-A32-13-tarball/versions/v0.28.0/ObjSearch-v0.28.0_debian-armhf-13-armhf.tar.gz</tarball-url>
-    <tarball-checksum>2b7cf1db9ba6e16e6bec7ad6525f2f0f4ce9d58fddceed4279a8cf162ab426bf</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-debian-armhf-A32-13-tarball/versions/v0.28.1/ObjSearch-v0.28.1_debian-armhf-13-armhf.tar.gz</tarball-url>
+    <tarball-checksum>703d4fed1b7f9ef3943ba01c2710af42bacb16f4bac73004bd9d7e5ad164ca1f</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3817,12 +4022,12 @@ search LogbookKonni
     <target>debian-wx32-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-debian-wx32-x86_64-11-tarball/versions/v0.28.0/ObjSearch-v0.28.0_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>c544a71105176c45bea1e0ad1297996419cf3b93fbbe6ec19a892f67ecf7d9f7</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-debian-wx32-x86_64-11-tarball/versions/v0.28.1/ObjSearch-v0.28.1_debian-wx32-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>695d3016eb2b82c90a77528289ca383e9577a1ffac5d689bddb359f215efb53e</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3835,12 +4040,12 @@ search LogbookKonni
     <target>debian-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-debian-x86_64-11-tarball/versions/v0.28.0/ObjSearch-v0.28.0_debian-x86_64-11-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>06a421315871ce1236ff2ee27e6f46d241e9f0ed7b46465df9b46e67f54c6d91</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-debian-x86_64-11-tarball/versions/v0.28.1/ObjSearch-v0.28.1_debian-x86_64-11-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>1dacbc678c9d55e9637091958dda0672458e552a80024354f3a2857a3e2feded</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3853,12 +4058,12 @@ search LogbookKonni
     <target>debian-x86_64</target>
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-debian-x86_64-12-tarball/versions/v0.28.0/ObjSearch-v0.28.0_debian-x86_64-12-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>7cda6cd879b567d50a53dfb88cd43dcb3219115b2d65b7053b20c20c0a02f83b</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-debian-x86_64-12-tarball/versions/v0.28.1/ObjSearch-v0.28.1_debian-x86_64-12-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>2911a84d8c65527bb1cd368759ef4ad39a52e37e863bca8fd13a150c1392f02b</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3871,30 +4076,12 @@ search LogbookKonni
     <target>debian-x86_64</target>
     <target-version>13</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-debian-x86_64-13-tarball/versions/v0.28.0/ObjSearch-v0.28.0_debian-x86_64-13-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>47aeaf6d4ede5af91676078305f5912dc6d07a2498493165787ac922cb2162a1</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-debian-x86_64-13-tarball/versions/v0.28.1/ObjSearch-v0.28.1_debian-x86_64-13-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>009efd2f1819727e31e16c69ed4d731fd8c085cb6c132c3bf79b1cd02d0591b0</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
-    <release>0</release>
-    <summary>Chart object search plugin for OpenCPN</summary>
-    <api-version>1.16</api-version>
-    <open-source>yes</open-source>
-    <author>Pavel Kalian</author>
-    <source>https://github.com/nohal/objsearch_pi</source>
-    <info-url>https://opencpn.org/OpenCPN/plugins/objsearch.html</info-url>
-    <description>Vector chart object search  plugin for OpenCPN
-</description>
-    <target>flatpak-aarch64</target>
-    <target-version>22.08</target-version>
-    <target-arch>aarch64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-flatpak-aarch64-A64-22.08-tarball/versions/v0.28.0/ObjSearch-v0.28.0_flatpak-aarch64-22.08-aarch64.tar.gz</tarball-url>
-    <tarball-checksum>cd3b01da1cc52792c728e353c5135078b7ad63e817de8ab49ab8df8b73674d99</tarball-checksum>
-  </plugin>
-  <plugin version="1">
-    <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3907,12 +4094,12 @@ search LogbookKonni
     <target>flatpak-aarch64</target>
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-flatpak-aarch64-A64-24.08-tarball/versions/v0.28.0/ObjSearch-v0.28.0_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
-    <tarball-checksum>d0e779d3a755d810772ea47cc83f64bf9e70bc574f17b101a56edd50c930d32d</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-flatpak-aarch64-A64-24.08-tarball/versions/v0.28.1/ObjSearch-v0.28.1_flatpak-aarch64-24.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>17c332235e13938c7426733b99dd2e740d8e54759440909354dc5e6ddb150676</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3922,15 +4109,15 @@ search LogbookKonni
     <info-url>https://opencpn.org/OpenCPN/plugins/objsearch.html</info-url>
     <description>Vector chart object search  plugin for OpenCPN
 </description>
-    <target>flatpak-x86_64</target>
-    <target-version>22.08</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-flatpak-x86_64-22.08-tarball/versions/v0.28.0/ObjSearch-v0.28.0_flatpak-x86_64-22.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>666d879584b8fa0e04af8a12d9d89e39eb19a59fab6a3e2e6c1af6c196fad18c</tarball-checksum>
+    <target>flatpak-aarch64</target>
+    <target-version>25.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-flatpak-aarch64-A64-25.08-tarball/versions/v0.28.1/ObjSearch-v0.28.1_flatpak-aarch64-25.08-aarch64.tar.gz</tarball-url>
+    <tarball-checksum>76cb346be857384ba224c6ed539ae859aaee7af1bfd27b6377c06f813a995665</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3943,12 +4130,30 @@ search LogbookKonni
     <target>flatpak-x86_64</target>
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-flatpak-x86_64-24.08-tarball/versions/v0.28.0/ObjSearch-v0.28.0_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
-    <tarball-checksum>26601d1ef64b4f60bfc5815d124ed7e1e489803e1c41b4f1bbde9076fe546556</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-flatpak-x86_64-24.08-tarball/versions/v0.28.1/ObjSearch-v0.28.1_flatpak-x86_64-24.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>e13ab7776e00594a71537fee4ead47f6468bb03836cf1e9ca8ae6844a9b72c8c</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name>ObjSearch</name>
-    <version>v0.28.0</version>
+    <version>v0.28.1</version>
+    <release>0</release>
+    <summary>Chart object search plugin for OpenCPN</summary>
+    <api-version>1.16</api-version>
+    <open-source>yes</open-source>
+    <author>Pavel Kalian</author>
+    <source>https://github.com/nohal/objsearch_pi</source>
+    <info-url>https://opencpn.org/OpenCPN/plugins/objsearch.html</info-url>
+    <description>Vector chart object search  plugin for OpenCPN
+</description>
+    <target>flatpak-x86_64</target>
+    <target-version>25.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-flatpak-x86_64-25.08-tarball/versions/v0.28.1/ObjSearch-v0.28.1_flatpak-x86_64-25.08-x86_64.tar.gz</tarball-url>
+    <tarball-checksum>2914db1059eedb568f0f362b9cbc260f97cb7601a4611ffce12a60f23badb17e</tarball-checksum>
+  </plugin>
+  <plugin version="1">
+    <name>ObjSearch</name>
+    <version>v0.28.1</version>
     <release>0</release>
     <summary>Chart object search plugin for OpenCPN</summary>
     <api-version>1.16</api-version>
@@ -3961,8 +4166,8 @@ search LogbookKonni
     <target>msvc-wx32</target>
     <target-version>10.0.26100</target-version>
     <target-arch>x86</target-arch>
-    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.0-msvc-wx32-10.0.26100-tarball/versions/v0.28.0/ObjSearch-v0.28.0_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
-    <tarball-checksum>f92b5105ca4af21191a90e1e7885eb5a7e37592599bdd94805134a8e30e22f28</tarball-checksum>
+    <tarball-url>https://dl.cloudsmith.io/public/nohal/objsearch_pi-stable/raw/names/ObjSearch-v0.28.1-msvc-wx32-10.0.26100-tarball/versions/v0.28.1/ObjSearch-v0.28.1_msvc-wx32-10.0.26100-x86.tar.gz</tarball-url>
+    <tarball-checksum>a3a5281ea43d54a4b008292586a38e78694a778728c99a9d68c8e4b14672f338</tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Projections </name>
@@ -4182,7 +4387,7 @@ search LogbookKonni
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4202,12 +4407,12 @@ such as dual radar range and Doppler.
     <target>darwin-wx32</target>
     <target-version>10</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-darwin-wx32-10-tarball/versions/v5.6.1/Radar-v5.6.1_darwin-wx32-10-x86_64.tar.gz </tarball-url>
-    <tarball-checksum> 9905811a76a26dca046588340abd97bef5db1437bb87f8c26d26fea95a7ba37d </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-darwin-wx32-10-tarball/versions/v5.7.0/Radar-v5.7.0_darwin-wx32-10-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> db021d82f83de01e736370d505b94e2fe37c0ac4c305c22efade6521c37437b8 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4227,12 +4432,12 @@ such as dual radar range and Doppler.
     <target>darwin-wx32</target>
     <target-version>10</target-version>
     <target-arch>arm64;x86_64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-darwin-wx32-universal-10-tarball/versions/v5.6.1/Radar-v5.6.1_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-    <tarball-checksum> 0aa4f4f214ef6923568d6c105a343de905daa2b05cc1790348e01f6936daa8f7 </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-darwin-wx32-universal-10-tarball/versions/v5.7.0/Radar-v5.7.0_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 6fd4d41baf25c70927ab6799218264e3044c54de95a8d3b62662a47dd6051f75 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4252,12 +4457,12 @@ such as dual radar range and Doppler.
     <target>debian-arm64</target>
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-debian-arm64-A64-12-tarball/versions/v5.6.1/Radar-v5.6.1_debian-arm64-12-arm64.tar.gz </tarball-url>
-    <tarball-checksum> 5fff33dc947db4e29127531ffb3fce72d82d3ebc4cc18f3e05f9fe8001bc24cb </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-debian-arm64-A64-12-tarball/versions/v5.7.0/Radar-v5.7.0_debian-arm64-12-arm64.tar.gz </tarball-url>
+    <tarball-checksum> 4f3cc9afc796d54a2bb0938dd5249339494f16010540da388cf2fc7cbf9bbb76 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4277,12 +4482,12 @@ such as dual radar range and Doppler.
     <target>debian-arm64</target>
     <target-version>13</target-version>
     <target-arch>arm64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-debian-arm64-A64-13-tarball/versions/v5.6.1/Radar-v5.6.1_debian-arm64-13-arm64.tar.gz </tarball-url>
-    <tarball-checksum> a28530e538fa2fb3fcd972f675ea83ed0c0005de8c458ca14c238939be1abffa </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-debian-arm64-A64-13-tarball/versions/v5.7.0/Radar-v5.7.0_debian-arm64-13-arm64.tar.gz </tarball-url>
+    <tarball-checksum> 3eca3191444db7ddcee82295b0cecf50de9e97e73526843c5d29f5ded8bfdd93 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4302,12 +4507,12 @@ such as dual radar range and Doppler.
     <target>debian-armhf</target>
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-debian-armhf-A32-12-tarball/versions/v5.6.1/Radar-v5.6.1_debian-armhf-12-armhf.tar.gz </tarball-url>
-    <tarball-checksum> 7bc17f2b5b51649cfd8fef3bdfc41e30f37fe815c0a47c112ed1231f12fa56ea </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-debian-armhf-A32-12-tarball/versions/v5.7.0/Radar-v5.7.0_debian-armhf-12-armhf.tar.gz </tarball-url>
+    <tarball-checksum> 2dd24b56902a2d3d8ed7eac88cf10cce8e7726fb935c721d881e606b4a3c20fc </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4327,12 +4532,12 @@ such as dual radar range and Doppler.
     <target>debian-armhf</target>
     <target-version>13</target-version>
     <target-arch>armhf</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-debian-armhf-A32-13-tarball/versions/v5.6.1/Radar-v5.6.1_debian-armhf-13-armhf.tar.gz </tarball-url>
-    <tarball-checksum> d0b32b46659b4f3a09489579e25c4823609943b144f34be034c261b79c714849 </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-debian-armhf-A32-13-tarball/versions/v5.7.0/Radar-v5.7.0_debian-armhf-13-armhf.tar.gz </tarball-url>
+    <tarball-checksum> 9114c84583dac53499126b46fa0d304ebb531b6daa6c735f917e7d0a77b784db </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4352,12 +4557,12 @@ such as dual radar range and Doppler.
     <target>debian-wx32-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-debian-wx32-x86_64-11-tarball/versions/v5.6.1/Radar-v5.6.1_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
-    <tarball-checksum> 387572942ca9b803437727c857e63391e453537d997a0f747ca081ddaf9d71e6 </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-debian-wx32-x86_64-11-tarball/versions/v5.7.0/Radar-v5.7.0_debian-wx32-x86_64-11-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> f22803005e92ce9230f1796a4a8297c3e26506e486d33612a6a705750073f5ac </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4377,12 +4582,12 @@ such as dual radar range and Doppler.
     <target>debian-x86_64</target>
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-debian-x86_64-11-tarball/versions/v5.6.1/Radar-v5.6.1_debian-x86_64-11-x86_64.tar.gz </tarball-url>
-    <tarball-checksum> 856a8402248a0f92998ea678a57acb23f49e52e829fdeb172152e62a1c8cfa16 </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-debian-x86_64-11-tarball/versions/v5.7.0/Radar-v5.7.0_debian-x86_64-11-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 135a7e9c64a1ceb0058ee41b969f93d3c322e4c2bd1805d8e2c9882748f1e874 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4402,12 +4607,12 @@ such as dual radar range and Doppler.
     <target>debian-x86_64</target>
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-debian-x86_64-12-tarball/versions/v5.6.1/Radar-v5.6.1_debian-x86_64-12-x86_64.tar.gz </tarball-url>
-    <tarball-checksum> ce8587a8db8f16f77d2c5639af8c2de4d723997f408d2bb588ad99bec13c102b </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-debian-x86_64-12-tarball/versions/v5.7.0/Radar-v5.7.0_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 8e27ec033b553e063dc2ef8770c820ec9eba009d00d13f23c391ebfda0e1aaab </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4427,12 +4632,12 @@ such as dual radar range and Doppler.
     <target>debian-x86_64</target>
     <target-version>13</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-debian-x86_64-13-tarball/versions/v5.6.1/Radar-v5.6.1_debian-x86_64-13-x86_64.tar.gz </tarball-url>
-    <tarball-checksum> e69504eee837b9a3d12c333275679b8733acbfe83677a8a73de11c46301d2148 </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-debian-x86_64-13-tarball/versions/v5.7.0/Radar-v5.7.0_debian-x86_64-13-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 728197bb52bdf6d7299cfdc9f8fd884c73ef8ec620fb0be9870ea5aa736c7a93 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4452,12 +4657,12 @@ such as dual radar range and Doppler.
     <target>flatpak-aarch64</target>
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-flatpak-aarch64-A64-22.08-tarball/versions/v5.6.1/Radar-v5.6.1_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
-    <tarball-checksum> e3455a593a25c17d61ad0711a5c04f8cbd10be192d31e660508d987d6c4978ec </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-flatpak-aarch64-A64-22.08-tarball/versions/v5.7.0/Radar-v5.7.0_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
+    <tarball-checksum> aba2f410984127e301b243c42f0307430c635365daee54521513bc0c688d9598 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4477,12 +4682,12 @@ such as dual radar range and Doppler.
     <target>flatpak-aarch64</target>
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-flatpak-aarch64-A64-24.08-tarball/versions/v5.6.1/Radar-v5.6.1_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
-    <tarball-checksum> 6a19c139661582a38f79c40a733b28773dec874d37588d8d421a0c4d8c62f79f </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-flatpak-aarch64-A64-24.08-tarball/versions/v5.7.0/Radar-v5.7.0_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
+    <tarball-checksum> 71991b5da3ff0b46077971157a78cac56d508da5fd2ee973b35690213d415908 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4502,12 +4707,12 @@ such as dual radar range and Doppler.
     <target>flatpak-aarch64</target>
     <target-version>25.08</target-version>
     <target-arch>aarch64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-flatpak-aarch64-A64-25.08-tarball/versions/v5.6.1/Radar-v5.6.1_flatpak-aarch64-25.08-aarch64.tar.gz </tarball-url>
-    <tarball-checksum> ee7f52fd9d615bc43855b9f445665e1fbef669b220758eb814f65cc8ceb058b4 </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-flatpak-aarch64-A64-25.08-tarball/versions/v5.7.0/Radar-v5.7.0_flatpak-aarch64-25.08-aarch64.tar.gz </tarball-url>
+    <tarball-checksum> 22563f6410e33ff9de5417fefa30d8a4e0af0b0f74b58b459c992974189dbb57 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4527,12 +4732,12 @@ such as dual radar range and Doppler.
     <target>flatpak-x86_64</target>
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-flatpak-x86_64-22.08-tarball/versions/v5.6.1/Radar-v5.6.1_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
-    <tarball-checksum> 46f7b6a544e890937ab74c3f5a6bf90f87ab4a1ce03e8a8a6c6f367e572e2c6b </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-flatpak-x86_64-22.08-tarball/versions/v5.7.0/Radar-v5.7.0_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> 6caeb28a980ba64ced7f7352228646aa48b1a58e6f176cb3f4d3fa34f9e2d210 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4552,12 +4757,12 @@ such as dual radar range and Doppler.
     <target>flatpak-x86_64</target>
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-flatpak-x86_64-24.08-tarball/versions/v5.6.1/Radar-v5.6.1_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
-    <tarball-checksum> a3609ce195a8277955fb734313a5bb16aa9496c60b721543fcf7e404443823df </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-flatpak-x86_64-24.08-tarball/versions/v5.7.0/Radar-v5.7.0_flatpak-x86_64-24.08-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> a205aa809bc97402c1ef399279d213dd0914b85b0e9d40c06f3de410bf3a61d3 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4577,12 +4782,12 @@ such as dual radar range and Doppler.
     <target>flatpak-x86_64</target>
     <target-version>25.08</target-version>
     <target-arch>x86_64</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-flatpak-x86_64-25.08-tarball/versions/v5.6.1/Radar-v5.6.1_flatpak-x86_64-25.08-x86_64.tar.gz </tarball-url>
-    <tarball-checksum> 12894992a8d229dc9084da338af83e5da67f002dc38fcddf692b43b9097af584 </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-flatpak-x86_64-25.08-tarball/versions/v5.7.0/Radar-v5.7.0_flatpak-x86_64-25.08-x86_64.tar.gz </tarball-url>
+    <tarball-checksum> c30e757408054013627e62460a8064875e3ad4eb0cf090611267f584364541e6 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> Radar </name>
-    <version> v5.6.1 </version>
+    <version> v5.7.0 </version>
     <release> 0 </release>
     <summary> Overlays the radar picture on OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -4602,8 +4807,8 @@ such as dual radar range and Doppler.
     <target>msvc-wx32</target>
     <target-version>10</target-version>
     <target-arch>x86</target-arch>
-    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.6.1-msvc-wx32-10-tarball/versions/v5.6.1/Radar-v5.6.1_msvc-wx32-10-x86.tar.gz </tarball-url>
-    <tarball-checksum> 971597fdd6e4ccaf65702bd596c6ea4b1880fa6f7007a07d9771d86410c7324f </tarball-checksum>
+    <tarball-url> https://dl.cloudsmith.io/public/opencpn-radar-pi/radar-prod/raw/names/Radar-v5.7.0-msvc-wx32-10-tarball/versions/v5.7.0/Radar-v5.7.0_msvc-wx32-10-x86.tar.gz </tarball-url>
+    <tarball-checksum> 48bb8b316a8c7ce2dd75109f616ca1ac7edd7595ab0ce63f493153d35a7f8358 </tarball-checksum>
   </plugin>
   <plugin version="1">
     <name> S63 </name>
