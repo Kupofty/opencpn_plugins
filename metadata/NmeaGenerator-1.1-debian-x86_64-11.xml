@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Kupofty/NmeaGenerator_pi/461 -->
+<!-- https://circleci.com/gh/Kupofty/NmeaGenerator_pi/482 -->
 <plugin version="1">
   <name> NmeaGenerator </name>
-  <version> 1.1.0+461.f09c20e </version>
+  <version> 1.1.0+482.6b3e672 </version>
   <release> 0 </release>
   <summary> NMEA sentence generator for testing and debugging </summary>
 
@@ -17,6 +17,6 @@
   <target>debian-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-debian-x86_64-11-tarball/versions/1.1.0+461.f09c20e/NmeaGenerator-1.1.0+461.f09c20e_debian-x86_64-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 400dfe9a65580e2971df7395efefea78ca8f5d9b0f65fc895f4c3ae2cd198496 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-debian-x86_64-11-tarball/versions/1.1.0+482.6b3e672/NmeaGenerator-1.1.0+482.6b3e672_debian-x86_64-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> ccc581c67bd1dc1c766d870a9886030afbb86d0a766d818d9d4cfb84c9654415 </tarball-checksum>
 </plugin>
