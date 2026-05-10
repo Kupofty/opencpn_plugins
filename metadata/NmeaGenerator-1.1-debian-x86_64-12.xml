@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> NmeaGenerator </name>
-  <version> 1.1.0+477.6b3e672 </version>
+  <version> 1.1.0+488.3981e15 </version>
   <release> 0 </release>
   <summary> NMEA sentence generator for testing and debugging </summary>
 
@@ -10,13 +10,13 @@
   <open-source> yes </open-source>
   <author> Kupofty </author>
   <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
-  <info-url> https://github.com/Kupofty/NmeaGenerator_pi/blob/main/manual/modules/ROOT/pages/index.adoc </info-url>
+  <info-url> https://kupofty.github.io/NmeaGenerator_pi/nmeagenerator_plugin/index.html </info-url>
 
   <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
 
   <target>debian-x86_64</target>
   <target-version>12</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-debian-x86_64-12-tarball/versions/1.1.0+477.6b3e672/NmeaGenerator-1.1.0+477.6b3e672_debian-x86_64-12-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 0d55daa17ad3d499831cea7ad884c0299337b75918ec80387a09c51f3bac95f5 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-debian-x86_64-12-tarball/versions/1.1.0+488.3981e15/NmeaGenerator-1.1.0+488.3981e15_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 8ee7531aec35b41dbef4e2983c76a9d2d89a5823836c3a0067e084faf22b287a </tarball-checksum>
 </plugin>
