@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Kupofty/NmeaGenerator_pi/478 -->
+<!-- https://circleci.com/gh/Kupofty/NmeaGenerator_pi/493 -->
 <plugin version="1">
   <name> NmeaGenerator </name>
-  <version> 1.1.0+478.6b3e672 </version>
+  <version> 1.1.0+493.3981e15 </version>
   <release> 0 </release>
   <summary> NMEA sentence generator for testing and debugging </summary>
 
@@ -10,13 +10,13 @@
   <open-source> yes </open-source>
   <author> Kupofty </author>
   <source> https://github.com/Kupofty/NmeaGenerator_pi </source>
-  <info-url> https://github.com/Kupofty/NmeaGenerator_pi/blob/main/manual/modules/ROOT/pages/index.adoc </info-url>
+  <info-url> https://kupofty.github.io/NmeaGenerator_pi/nmeagenerator_plugin/index.html </info-url>
 
   <description> Generate, edit and transmit custom NMEA0183 sentences for testing navigation plugins, onboard displays, etc... </description>
 
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-darwin-wx32-universal-10-tarball/versions/1.1.0+478.6b3e672/NmeaGenerator-1.1.0+478.6b3e672_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 8d7d0fd9b29f91c6027cc03f2ecd46ebf7befd0bf1c96253f67322a01f312ae7 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-darwin-wx32-universal-10-tarball/versions/1.1.0+493.3981e15/NmeaGenerator-1.1.0+493.3981e15_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> d0a8d4dfffe4b30e20c7ae9ebaff335c36a25edb51826403af3b6d5d4b0bd95c </tarball-checksum>
 </plugin>
