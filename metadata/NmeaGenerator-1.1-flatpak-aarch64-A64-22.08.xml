@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Kupofty/NmeaGenerator_pi/549 -->
+<!-- https://circleci.com/gh/Kupofty/NmeaGenerator_pi/571 -->
 <plugin version="1">
   <name> NmeaGenerator </name>
-  <version> 1.1.0-alpha1+549.64f8051 </version>
+  <version> 1.1.0+571.c8c22ca </version>
   <release> 0 </release>
   <summary> NMEA sentence generator for testing and debugging </summary>
 
@@ -17,6 +17,6 @@
   <target>flatpak-aarch64</target>
   <target-version>22.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-flatpak-aarch64-A64-22.08-tarball/versions/1.1.0-alpha1+549.64f8051/NmeaGenerator-1.1.0-alpha1+549.64f8051_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> b035da5cc47e07cf6a9fec059b5f8a2dee431136896b2c081f75acabda8727dd </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-flatpak-aarch64-A64-22.08-tarball/versions/1.1.0+571.c8c22ca/NmeaGenerator-1.1.0+571.c8c22ca_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> f64c6184b46c217083a13dc81cd62b16ded3fba685d14dfad3eb60086e042d2b </tarball-checksum>
 </plugin>
