@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Kupofty/nmeagenerator-pi/builds/54199544 -->
+<!-- https://ci.appveyor.com/project/Kupofty/nmeagenerator-pi/builds/54201790 -->
 <plugin version="1">
   <name> NmeaGenerator </name>
-  <version> 1.1.0+58.9cdfe88 </version>
+  <version> 1.1.0+59.e48ebae </version>
   <release> 0 </release>
   <summary> NMEA sentence generator for testing and debugging </summary>
 
@@ -17,6 +17,6 @@
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-msvc-wx32-10-tarball/versions/1.1.0+58.9cdfe88/NmeaGenerator-1.1.0+58.9cdfe88_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> b60255d71ba429523dffa73f20b7d124cefa8fb8a25ade0a2697fec0e8c8318c </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.1-msvc-wx32-10-tarball/versions/1.1.0+59.e48ebae/NmeaGenerator-1.1.0+59.e48ebae_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 20655ac1a1885a83098f5c39d39f98526467b7c381223ec3845cd411ea7b1f14 </tarball-checksum>
 </plugin>
