@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> NmeaGenerator </name>
-  <version> 1.2.0+920.93ba643 </version>
+  <version> 1.2.0+970.3a29695 </version>
   <release> 0 </release>
   <summary> NMEA sentence generator for testing and debugging </summary>
 
@@ -17,6 +17,6 @@
   <target>debian-armhf</target>
   <target-version>13</target-version>
   <target-arch>armhf</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.2-debian-armhf-A32-13-tarball/versions/1.2.0+920.93ba643/NmeaGenerator-1.2.0+920.93ba643_debian-armhf-13-armhf.tar.gz </tarball-url>
-  <tarball-checksum> b582919bfa7e292225b9376a79b4ece61196f727bb13ab7ce168cc950b9253e5 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/nmeagenerator-alpha/raw/names/NmeaGenerator-1.2-debian-armhf-A32-13-tarball/versions/1.2.0+970.3a29695/NmeaGenerator-1.2.0+970.3a29695_debian-armhf-13-armhf.tar.gz </tarball-url>
+  <tarball-checksum> dee5aa6040e4d05d9db2e94f6431502e5a90e2e9e9a65f05fb003e1f06e6e195 </tarball-checksum>
 </plugin>
