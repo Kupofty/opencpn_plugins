@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/Kupofty/aislive-pi/builds/54823860 -->
+<!-- https://ci.appveyor.com/project/Kupofty/aislive-pi/builds/54834434 -->
 <plugin version="1">
   <name> AisLive </name>
-  <version> 1.0.0+80.69a4522 </version>
+  <version> 1.0.0+82.9f934d2 </version>
   <release> 0 </release>
   <summary> Online AIS Stream </summary>
 
@@ -17,6 +17,6 @@
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/aislive-alpha/raw/names/AisLive-1.0-msvc-wx32-10-tarball/versions/1.0.0+80.69a4522/AisLive-1.0.0+80.69a4522_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 1e1809f90cbf8b4df6856cd11e2f38dee2fb225efa288f1f459ad34ce10c2359 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/aislive-alpha/raw/names/AisLive-1.0-msvc-wx32-10-tarball/versions/1.0.0+82.9f934d2/AisLive-1.0.0+82.9f934d2_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> 956a7e31ab7fc40ccbbc798e3b19e6b5180f2644e1662a5253233dfaf839facd </tarball-checksum>
 </plugin>
