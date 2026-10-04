@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> AisLive </name>
-  <version> 1.0.0+806.69a4522 </version>
+  <version> 1.0.0+822.9f934d2 </version>
   <release> 0 </release>
   <summary> Online AIS Stream </summary>
 
@@ -17,6 +17,6 @@
   <target>debian-arm64</target>
   <target-version>12</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/aislive-alpha/raw/names/AisLive-1.0-debian-arm64-A64-12-tarball/versions/1.0.0+806.69a4522/AisLive-1.0.0+806.69a4522_debian-arm64-12-arm64.tar.gz </tarball-url>
-  <tarball-checksum> a4b60d1b31bd31bfaf4c2fc2335ddc9b77c380e28ca91f8882b33b371cff989e </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/aislive-alpha/raw/names/AisLive-1.0-debian-arm64-A64-12-tarball/versions/1.0.0+822.9f934d2/AisLive-1.0.0+822.9f934d2_debian-arm64-12-arm64.tar.gz </tarball-url>
+  <tarball-checksum> f54bf5ac5333cb421f559fa7816f33b0dcf51fab449044aa4662bfa9a2e0c1d2 </tarball-checksum>
 </plugin>
