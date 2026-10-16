@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/Kupofty/AisLive_pi/858 -->
+<plugin version="1">
+  <name> AisLive </name>
+  <version> 1.1.0+858.145d54d </version>
+  <release> 0 </release>
+  <summary> Online AIS Stream </summary>
+
+  <api-version> 1.20 </api-version>
+  <open-source> yes </open-source>
+  <author> Kupofty </author>
+  <source> https://github.com/Kupofty/AisLive_pi </source>
+  <info-url> https://kupofty.github.io/AisLive_pi/aislive_plugin/index.html </info-url>
+
+  <description> Connects to the OpenWaters.io AIS stream and fetches live AIS targets over the internet for display in OpenCPN </description>
+
+  <target>flatpak-aarch64</target>
+  <target-version>25.08</target-version>
+  <target-arch>aarch64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/aislive-alpha/raw/names/AisLive-1.1-flatpak-aarch64-A64-25.08-tarball/versions/1.1.0+858.145d54d/AisLive-1.1.0+858.145d54d_flatpak-aarch64-25.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> 3454d09c91bd2ccc1439a7f11e0bb6d17f5d09c78644c919b47e46f0043fa71f </tarball-checksum>
+</plugin>
