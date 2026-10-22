@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Kupofty/AisLive_pi/862 -->
+<!-- https://circleci.com/gh/Kupofty/AisLive_pi/873 -->
 <plugin version="1">
   <name> AisLive </name>
-  <version> 1.1.0+862.145d54d </version>
+  <version> 1.1.0+873.e78ee4f </version>
   <release> 0 </release>
   <summary> Online AIS Stream </summary>
 
@@ -17,6 +17,6 @@
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/aislive-alpha/raw/names/AisLive-1.1-darwin-wx32-universal-10-tarball/versions/1.1.0+862.145d54d/AisLive-1.1.0+862.145d54d_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> ed75828ed2cfa74762847039da728fde6abc80e04d02c1e2d5514a448b02120c </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/aislive-alpha/raw/names/AisLive-1.1-darwin-wx32-universal-10-tarball/versions/1.1.0+873.e78ee4f/AisLive-1.1.0+873.e78ee4f_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 39037ca1aef4262ab9a89e5d0309b9aa245f37873f1529c587805586f6ac90f1 </tarball-checksum>
 </plugin>
