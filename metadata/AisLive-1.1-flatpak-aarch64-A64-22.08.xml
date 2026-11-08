@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/Kupofty/AisLive_pi/871 -->
+<!-- https://circleci.com/gh/Kupofty/AisLive_pi/884 -->
 <plugin version="1">
   <name> AisLive </name>
-  <version> 1.1.0+871.e78ee4f </version>
+  <version> 1.1.0+884.f3ffaca </version>
   <release> 0 </release>
   <summary> Online AIS Stream </summary>
 
@@ -17,6 +17,6 @@
   <target>flatpak-aarch64</target>
   <target-version>22.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/aislive-alpha/raw/names/AisLive-1.1-flatpak-aarch64-A64-22.08-tarball/versions/1.1.0+871.e78ee4f/AisLive-1.1.0+871.e78ee4f_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> 4aa634e7ac7a8c8d021cf97417b9ce237879f6a3f24df4fba781aea6958a57b7 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/kupoftyopencpn/aislive-alpha/raw/names/AisLive-1.1-flatpak-aarch64-A64-22.08-tarball/versions/1.1.0+884.f3ffaca/AisLive-1.1.0+884.f3ffaca_flatpak-aarch64-22.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> b2f4250f11d5922e8541b05fd09e656d69d987e17642e98d79dad60086f104a0 </tarball-checksum>
 </plugin>
